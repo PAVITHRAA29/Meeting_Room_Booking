@@ -1,0 +1,37 @@
+
+s	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¸Öÿÿÿÿÿ8ÛÕËç1
+m	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÑÜt8ÜÕËç1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚²»•ıÿÿÿÿ8àÕËç1
+e
+java:S2259á"GA "NullPointerException" could be thrown; "startDate" is nullable here.(´Îäæ8š×Ëç1
+p
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(èúç™8´×Ëç1
+o
+java:S6204Ÿ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ÿ·ó 8µ×Ëç1
+u
+java:S6204¶"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(’¾Àùÿÿÿÿ8¹×Ëç1
+J
+java:S1125¶"'Remove the unnecessary boolean literal.(’¾Àùÿÿÿÿ8º×Ëç1
+u
+java:S6204¸"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(•Ş”’ÿÿÿÿÿ8º×Ëç1
+Y	java:S125¾"<This block of commented-out lines of code should be removed.(Ó‹™Æ8¼×Ëç1
+p
+java:S6204Î"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8½×Ëç1
+J
+java:S1125Ì"'Remove the unnecessary boolean literal.(ò½ûæøÿÿÿÿ8¾×Ëç1
+u
+java:S6204ç"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¾Û–Õøÿÿÿÿ8Ã×Ëç1
+p
+java:S6204”"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Ì×Ëç1
+J
+java:S1125’"'Remove the unnecessary boolean literal.(ò½ûæøÿÿÿÿ8Í×Ëç1
+E
+java:S1125Ş"'Remove the unnecessary boolean literal.(êÉ¥‚8Ø×Ëç1
+u
+java:S6204…"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(çÖÓ„øÿÿÿÿ8ß×Ëç1
+u
+java:S6204’"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¦ù™‹ûÿÿÿÿ8„ØËç1
+z
+java:S1128"XRemove this unused import 'com.divum.MeetingRoomBlocker.Exception.InvalidDataException'.(ô¥ÊÔüÿÿÿÿ8û¹‘Ëç1
+c
+java:S1128"FRemove this unused import 'org.checkerframework.checker.units.qual.C'.(ÏıÁÊ8û¹‘Ëç1

@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù†
+C
+java:S1452
+"&Remove usage of generic wildcard type.(í‚¹¾8–ĞòÎß1
+f
+java:S1128"IRemove this unused import 'com.divum.MeetingRoomBlocker.DTO.ResponseDTO'.(ª¾‡Å8–ĞòÎß1

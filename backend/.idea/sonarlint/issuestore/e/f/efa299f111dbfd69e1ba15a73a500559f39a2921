@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÏ€Êşÿÿÿÿ8ÍàÜŠå1
+t	java:S116"SRename this field "Feedback" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï÷ğÉşÿÿÿÿ8ÏàÜŠå1
+m	java:S116"QRename this field "Rating" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŠÍŸ8ÏàÜŠå1
+p	java:S116"TRename this field "MeetingId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤„íŒ8ÏàÜŠå1
+p
+java:S1128"NRemove this unused import 'com.divum.MeetingRoomBlocker.Entity.MeetingEntity'.(¿Ú…¸ıÿÿÿÿ8ÓàÜŠå1
+h
+java:S1128"KRemove this unused import 'com.divum.MeetingRoomBlocker.Entity.UserEntity'.(Ï®‡ß8ÓàÜŠå1

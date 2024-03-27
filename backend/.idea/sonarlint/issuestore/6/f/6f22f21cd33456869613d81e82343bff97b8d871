@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»±¶Ïÿÿÿÿÿ8‘–öÆá1
+E
+java:S1128
+"#Remove this unused import 'lombok'.(â—‡‘þÿÿÿÿ8––öÆá1
+^
+java:S1128"<Remove this unused import 'org.hibernate.annotations.Cache'.(ƒ×µ úÿÿÿÿ8––öÆá1
+l
+java:S1128"ORemove this unused import 'org.hibernate.annotations.CacheConcurrencyStrategy'.(Íûµ8––öÆá1
+
+java:S1128"]Remove this unused import 'org.springframework.data.jpa.repository.config.EnableJpaAuditing'.(ÿ§í’ùÿÿÿÿ8––öÆá1
+S
+java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8ÍíˆÇá1

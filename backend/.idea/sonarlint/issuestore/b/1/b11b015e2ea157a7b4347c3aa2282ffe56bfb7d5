@@ -1,0 +1,15 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¬äœûÿÿÿÿ8¯ÎèÂà1
+H
+java:S1452"&Remove usage of generic wildcard type.(Ÿüí¸üÿÿÿÿ8²ÎèÂà1
+H
+java:S1452"&Remove usage of generic wildcard type.(”ñåşÿÿÿÿ8³ÎèÂà1
+f
+java:S1128"IRemove this unused import 'com.divum.MeetingRoomBlocker.DTO.ResponseDTO'.(ª¾‡Å8‹Í‘ªå1
+K
+java:S1128"/Remove this unused import 'java.sql.Timestamp'.(èò½+8ŒÍ‘ªå1
+V
+java:S1128	"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ŒÍ‘ªå1
+N
+java:S1128
+",Remove this unused import 'java.util.Timer'.(†£ñáÿÿÿÿÿ8ŒÍ‘ªå1

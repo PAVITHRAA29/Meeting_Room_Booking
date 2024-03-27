@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©‰Ò¦ùÿÿÿÿ
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+D
+java:S1068"/Remove this unused "maxCapacity" private field.(ŒùÅ0
+E
+java:S1068"/Remove this unused "minCapacity" private field.(£¼¿ƒ
+S
+java:S1068"8Remove this unused "facilitiesEntityList" private field.(€•¹úùÿÿÿÿ
+C
+java:S1068"-Remove this unused "roomImage" private field.(½§¯Ã

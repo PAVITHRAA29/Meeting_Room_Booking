@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø—Šª
+Q
+java:S18542"6Remove this useless assignment to local variable "id".(ÛĞÉ¦şÿÿÿÿ
+Z
+java:S2147D"DCombine this catch with the one at line 64, which has the same body.(”ı¾
+B
+java:S14812"'Remove this unused "id" local variable.(ÛĞÉ¦şÿÿÿÿ
+j	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úøƒ¢8çıŸ®å1
+o
+java:S1128"RRemove this unused import 'com.divum.MeetingRoomBlocker.Service.ActivityServices'.(Ü—Çˆ8ËÏÎ¨å1
+M
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8¼ŸÉ·å1

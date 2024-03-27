@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–‰ß•
+_
+java:S1854Q"IRemove this useless assignment to local variable "updateEventInCalendar".(Å≠∫à
+K
+java:S2209P"5Change this instance-reference to a static reference.(†Ÿ¢Ï
+_
+java:S1117Q"IRename "updateEventInCalendar" which hides the field declared at line 38.(Å≠∫à
+P
+java:S1481Q":Remove this unused "updateEventInCalendar" local variable.(Å≠∫à

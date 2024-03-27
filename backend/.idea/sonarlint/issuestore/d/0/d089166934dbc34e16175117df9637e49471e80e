@@ -1,0 +1,19 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ïˆÒ¤8õÂˆßå1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ë”»8öÂˆßå1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÿÂˆßå1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÿÂˆßå1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÿÂˆßå1
+]
+java:S1854";Remove this useless assignment to local variable "endTime".(áğºëÿÿÿÿÿ8ëÓÖ®æ1
+Z
+java:S1854"=Remove this useless assignment to local variable "startTime".(ß¾­ù8ëÓÖ®æ1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ïˆÒ¤8‚Ãˆßå1
+K
+java:S1481".Remove this unused "startTime" local variable.(ß¾­ù8îÓÖ®æ1
+N
+java:S1481",Remove this unused "endTime" local variable.(áğºëÿÿÿÿÿ8ïÓÖ®æ1

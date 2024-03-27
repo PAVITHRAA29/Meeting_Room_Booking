@@ -1,0 +1,6 @@
+
+g	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(Žÿ‡èûÿÿÿÿ8æ•ºÐç1
+g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(ùÈü…úÿÿÿÿ8æ•ºÐç1
+€
+java:S1488A"cImmediately return this expression instead of assigning it to the temporary variable "accessToken".(¢° Ñ8ç•ºÐç1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¤éÚýÿÿÿÿ8ý¯˜Ýå1

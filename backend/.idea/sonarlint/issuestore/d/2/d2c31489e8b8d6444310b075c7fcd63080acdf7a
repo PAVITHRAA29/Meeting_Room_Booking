@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ë”»8¼³‰ßå1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8È³‰ßå1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8É³‰ßå1
+T
+java:S1874"2Remove this use of "getMinutes"; it is deprecated.(ËÝ¯þýÿÿÿÿ8Ñ³‰ßå1
+R
+java:S1874"0Remove this use of "getHours"; it is deprecated.(ËÝ¯þýÿÿÿÿ8Ñ³‰ßå1
+]
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØŽúøÿÿÿÿ8Î±Ö¬æ1
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ýÿÿÿÿ8Î±Ö¬æ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Î±Ö¬æ1

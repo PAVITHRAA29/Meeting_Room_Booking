@@ -1,0 +1,65 @@
+
+d
+java:S1192A"GDefine a constant instead of duplicating this literal "Admin
+" 3 times.(¯æí½8âÖ®Êç1
+l
+java:S1192>"ODefine a constant instead of duplicating this literal " 
+Start Time: " 4 times.(“ñú†8âÖ®Êç1
+m
+java:S1192>"PDefine a constant instead of duplicating this literal "
+Meeting Room: " 4 times.(“ñú†8ãÖ®Êç1
+h
+java:S1192B"FDefine a constant instead of duplicating this literal "Divum" 3 times.(Şàôšûÿÿÿÿ8ãÖ®Êç1
+j
+java:S1192>"MDefine a constant instead of duplicating this literal " 
+End Time: " 4 times.(“ñú†8ãÖ®Êç1
+Á
+java:S1192D"£Define a constant instead of duplicating this literal "
+If you have any queries or need further clarification, please don't hesitate to reach out to us.
+" 3 times.(¿Úñø8ãÖ®Êç1
+…
+java:S1192E"cDefine a constant instead of duplicating this literal "Thank you for your understanding.
+" 3 times.(Ÿ ÜËùÿÿÿÿ8ãÖ®Êç1
+q
+java:S1192@"ODefine a constant instead of duplicating this literal "Best regards,
+" 3 times.(ˆçÂ˜ûÿÿÿÿ8äÖ®Êç1
+m	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä£¡²8äÖ®Êç1
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Úñ¨úÿÿÿÿ8åÖ®Êç1
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñïê–úÿÿÿÿ8åÖ®Êç1
+m	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä£¡²8åÖ®Êç1
+m	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ«²8åÖ®Êç1
+r	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ê¸üÿÿÿÿ8åÖ®Êç1
+n	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁëÛå8åÖ®Êç1
+n	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¦ÿÛ8æÖ®Êç1
+s	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒåüÿÿÿÿ8æÖ®Êç1
+s	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒåüÿÿÿÿ8æÖ®Êç1
+s	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒåüÿÿÿÿ8æÖ®Êç1
+^
+java:S4973K"<Strings and Boxed types should be compared using "equals()".(ÑÃ…Ëÿÿÿÿÿ8êÖ®Êç1
+^
+java:S4973d"<Strings and Boxed types should be compared using "equals()".(ÑÃ…Ëÿÿÿÿÿ8êÖ®Êç1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şìÃ€8ëÖ®Êç1
+f
+java:S3655„"HCall "room.isPresent()" or "!room.isEmpty()" before accessing the value.(¿Úñø8İâöĞç1
+‚
+java:S3655ƒ"dCall "userEntityOptional.isPresent()" or "!userEntityOptional.isEmpty()" before accessing the value.(ÁëÛå8„€Ñç1
+e
+java:S3655>"HCall "room.isPresent()" or "!room.isEmpty()" before accessing the value.(“ñú†8„€Ñç1
+e
+java:S3655a"HCall "room.isPresent()" or "!room.isEmpty()" before accessing the value.(¿Úñø8İâöĞç1
+T
+java:S2589^"7Remove this expression which always evaluates to "true"(½¸Õ…8ŞâöĞç1
+T
+java:S2589;"7Remove this expression which always evaluates to "true"(ŸŞŞÅ8ŞâöĞç1
+p	java:S116("ORename this field "From" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÔÃêùÿÿÿÿ8öÖ®Êç1
+t
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ñı¯õÿÿÿÿÿ8ûÖ®Êç1
+j
+java:S6809O"MCall async methods via an injected dependency instead of directly via 'this'.(·§ó8ƒ×®Êç1
+j
+java:S6809V"MCall async methods via an injected dependency instead of directly via 'this'.(ğÊÿ¸8„×®Êç1
+o
+java:S6809h"MCall async methods via an injected dependency instead of directly via 'this'.(õ¯¡ûÿÿÿÿ8‡×®Êç1
+j
+java:S6809‰"MCall async methods via an injected dependency instead of directly via 'this'.(ñ‡z8×®Êç1
+p	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒåüÿÿÿÿ8×®Êç1
